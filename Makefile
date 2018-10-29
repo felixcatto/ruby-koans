@@ -1,0 +1,2 @@
+test:
+	observr 'koans.watchr'
